@@ -1,4 +1,4 @@
- Customer_Segmentation_Marketing
+Customer_Segmentation_Marketing
  
  Objective:
      Use clustering techniq ues to segment customers based on purchasing behavior, demographics, and preferences.
